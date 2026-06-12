@@ -1,0 +1,14 @@
+streamlit==1.28.1
+pandas==2.0.3
+numpy==1.24.3
+python-pptx==0.6.21
+python-docx==0.8.11
+PyPDF2==3.0.1
+pillow==10.0.0
+openai==0.28.1
+requests==2.31.0
+sqlite3-python==1.0.0
+plotly==5.17.0
+streamlit-calendar==1.2.0
+streamlit-option-menu==0.3.2
+python-dotenv==1.0.0
